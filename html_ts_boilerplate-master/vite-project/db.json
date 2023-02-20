@@ -1,0 +1,28 @@
+{
+  "animals": [
+    {
+      "id": "1",
+      "name": "Tiger",
+      "species": "Cat",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Walking_tiger_female.jpg/220px-Walking_tiger_female.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Brown bear",
+      "species": "Bear",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ours_brun_parcanimalierpyrenees_1.jpg/220px-Ours_brun_parcanimalierpyrenees_1.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Lion",
+      "species": "Cat",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Lion_waiting_in_Namibia.jpg/220px-Lion_waiting_in_Namibia.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Bee",
+      "species": "Insect",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Tetragonula_carbonaria_%2814521993792%29.jpg/220px-Tetragonula_carbonaria_%2814521993792%29.jpg"
+    }
+  ]
+}
